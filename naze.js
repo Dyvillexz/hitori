@@ -2,8 +2,8 @@ process.on('uncaughtException', console.error)
 process.on('unhandledRejection', console.error)
 
 /*
-	* Create By Naze
-	* Follow https://github.com/nazedev
+	* Create By dyvilleexz
+	* Follow  https://github.com/Dyvillexz/Villexz.git
 	* Whatsapp : https://whatsapp.com/channel/0029VaWOkNm7DAWtkvkJBK43
 */
 
